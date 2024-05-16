@@ -1,7 +1,7 @@
 <H3>NAME: SREEVALSAN V</H3>
 <H3>REGISTER NO: 212223240158</H3>
 <H3>EX.NO.4</H3>
-<H3>DATE:12-03-24</H3>
+<H3>DATE:19-03-24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
